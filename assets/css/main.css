@@ -184,7 +184,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: transparent url("images/bg.jpg") bottom;
+		background: #000000 url("images/bg.jpg") bottom;
 		background-repeat: repeat-x;
 		background-position: 0% 0%;
 		height: 100000%;
